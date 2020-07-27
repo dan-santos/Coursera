@@ -1,0 +1,4 @@
+nova, linha
+eu, tu
+ele, eles
+nos, vos
